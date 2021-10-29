@@ -1,0 +1,134 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "leonam_5000@hotmail.com",
+      "password": "$2a$10$6SLfGYVpw39KePvptXA0Tuhoj.26cyof7Rxe4ftV6yfBZpgRFniEi",
+      "name": "leonam",
+      "age": 21,
+      "id": 2
+    },
+    {
+      "email": "leonam2_5000@hotmail.com",
+      "password": "$2a$10$ZS8FGML8I6NzxW8scd8YmOXslIoaIB4VJzEohzVcwq2YuJXdq1bmK",
+      "name": "leonam",
+      "age": 21,
+      "id": 3
+    },
+    {
+      "email": "leo_rodrigues@hotmail.com",
+      "password": "$2a$10$W5Bp0JnwofQluScyYinbYOWA957pnj8yNZaZdHwGRyfbpEltW1Eea",
+      "name": "leonam",
+      "age": 21,
+      "id": 4
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Leonam Rodrigues",
+      "occupation": "Estudante de Desenvolvimento Full stack na Kenzie Academy Brasil.",
+      "hardskills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "ReactJs"
+      ],
+      "age": 21,
+      "github": "https://github.com/Leonam1212",
+      "linkedin": "https://www.linkedin.com/in/leonam-rodrigues/",
+      "id": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "image": "",
+      "name": "Hamburguer",
+      "type": "Sanduiche",
+      "price": 13.99
+    },
+    {
+      "id": 1,
+      "image": "",
+      "name": "X-Burguer",
+      "type": "Sanduiche",
+      "price": 16.99
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "Guaraná",
+      "type": "Bebida",
+      "price": 7.99
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Milk Shake Moranguinho",
+      "type": "Sobremesa",
+      "price": 13.99
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "Coca Cola",
+      "type": "Bebida",
+      "price": 7.99
+    },
+    {
+      "id": 5,
+      "image": "",
+      "name": "Best Combo",
+      "type": "Combos",
+      "price": 19.99
+    },
+    {
+      "id": 6,
+      "image": "",
+      "name": "Suco de Laranja",
+      "type": "Bebida",
+      "price": 2.99
+    },
+    {
+      "id": 7,
+      "image": "",
+      "name": "Big Q2",
+      "type": "Sanduiche",
+      "price": 29.99
+    },
+    {
+      "image": "",
+      "name": "HamburguerX",
+      "type": "Sanduiche",
+      "price": 13.99,
+      "userId": 2,
+      "id": 8
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "type": "Fidelidade",
+      "rule": "Realizar 5 pedidos contendo pelo menos uma bebida.",
+      "reward": "Ganhe 25% de desconto em um dos produtos: Kenzie Burger, Coca Cola, Big Q2."
+    },
+    {
+      "id": 1,
+      "type": "Promoção",
+      "rule": "Tenha uma conta de 1 ano",
+      "reward": "Ganhe 95% de desconto em um dos produtos: Kenzie Burger, Coca Cola, Big Q2."
+    },
+    {
+      "id": 2,
+      "type": "Fidelidade",
+      "rule": "Comprou 10x em nosso estabelecimento",
+      "reward": "Ganhe 95% de desconto em um dos produtos: Kenzie Burger, Coca Cola, Big Q2."
+    }
+  ]
+}
