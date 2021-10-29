@@ -33,12 +33,7 @@
     {
       "name": "Leonam Rodrigues",
       "occupation": "Estudante de Desenvolvimento Full stack na Kenzie Academy Brasil.",
-      "hardskills": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "ReactJs"
-      ],
+      "hardskills": ["HTML5", "CSS3", "JavaScript", "ReactJs"],
       "age": 21,
       "github": "https://github.com/Leonam1212",
       "linkedin": "https://www.linkedin.com/in/leonam-rodrigues/",
@@ -48,67 +43,59 @@
   "products": [
     {
       "id": 0,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/b802/7d43/77b97cf91adff632bb964dc7b056d179?Expires=1636329600&Signature=XGFEUB2u-2v0Whprb5ykepFiPmVoTy0tY5NUKad-Kh-g9TIDZTE~M8hmk9wcuzRjDYJexHG4xM6qHCjjCWeAEMDEyA1cKyI4UGS6mpIWgpYpGMYKM4ZpmZfjphWKAZByb~EHXQSgPlzWJcRRLCIC~a~tltI~a3UPS62soSzOTst-eiU8~cum5ie7iLndWHD-Pnq31e1IVpQV04DWaA6bVeS9~9WLyPY6YAGiFI1pB~c45vMWlXbyQpjKi~R9utnoFnMwmWn7znh-jY5KShuGAGJy5JW19lFbjSpZhFlF7m8DpYfjiuspVhBcheZ0zQXSr55qAw9UIQFtv0c6h8Nhww__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "Hamburguer",
       "type": "Sanduiche",
       "price": 13.99
     },
     {
       "id": 1,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/a31b/2c16/9de750feaf42d98ebd46941dad1f6afd?Expires=1636329600&Signature=fRKjENQwM4BlBWZBllop3syk3U99e5zJkZPkHjUZz3Tvb0iLRh-N3KJpFJCbZqTAdS7oSkLRj5QyJfMjPHth2-SfIxqVZlJBnftRvDwSMN1cGdLjQ2e5KkUCyQoVTATA6-MvLkoVpEhnjoE~oY5z2mahy5SlRjQ6UvlO9lhKoxzoo~UwmKa8QaL4lXHEEcEQ~4uvHlFUsiNNWxlEYvfORIvVtJuFI18Ongc8oZErC6aibvVKTz8yWgtZX91B6ZVp~E-wjeBaRInO2V96KXViXY3xEXXtMI-uCTx4zdR2vkrbJhicj3id7ordBK-6m6F-44urSLdH0r-Mu~VNuEBm0w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "X-Burguer",
       "type": "Sanduiche",
       "price": 16.99
     },
     {
       "id": 2,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/60f1/9a01/e0f45751b040264e27bff533cd98a9fa?Expires=1636329600&Signature=hptJSX0XpeUNxjSVh8eN3lZWn18wKv22J2OOxelTr9zQLtb67G3rkmYLcw0yZ8mUDqM4d7mESXgUS1WYym8DntsIrXWbO8uSPwpYa8c2G~QfBjMf-m0QSHl4w9MZWPNckQrx9TG5qTl0J3~71TuW9XPDIa1bxsUUBH3PgbFW2k1SCGoE7BhkJY80utHU5sDcAe2y68X21HnFbVZY18oERZDMzmiXa7Nlj7GR5uRsfRwkd4EptDcCG0QMH-OXmK4Zf-F09ib2xMzypp-sM6y2w~VmBnt1mg1uJFviXALgRzLZW31dKjJj62qaWV02x3JlfDNAfLXaQv5MxbQ2pikjrw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "Guaraná",
       "type": "Bebida",
       "price": 7.99
     },
     {
       "id": 3,
-      "image": "",
-      "name": "Milk Shake Moranguinho",
+      "image": "https://s3-alpha-sig.figma.com/img/1418/8d02/bff95df5c4ffe3b30eb1fc1d20d11c67?Expires=1636329600&Signature=Yi9JHRVPShIXIj7LDzZswFEzNUpuKnnDeLsnPQJXwTR1KmvXfchnHkiqXYrU0kBYcDOFb2xDsvXnaEZT6P4vTxScx4MuaK7UKhap4oijyQyaZVmO3rGO1M7FmOSrXyJmQjRzhVwetOj-fak3VTq0bPTqD2SA3rBcNjPze5d0PbKmyVWU8S2xiBLqc5X4SFht0NZgxtYepxVvlxakWp2BuRZFIuUEoMiMrDRXPNuFJSk0oyHdNtBbCYLfY3FHVkHirWxXng3YR6R7nOMCFJwR0CBNjueNO7wsRxiRXZeuRmr8GlcU7D2viw9-SMl2-Y2Eu9f6-esqhpFyegpFZxn-lQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "name": "Milk Shake Ovomaltine",
       "type": "Sobremesa",
       "price": 13.99
     },
     {
       "id": 4,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/2bc5/898e/0066008c52d555a980ec793bcaf8317f?Expires=1636329600&Signature=gAbB9Ovag9O4P8SuRBbnQwivTeufLQBh-tU0tG~BXma9Fe8BKcp5yzRS9eNJ5AM5ywZv~pwS5LCm4b~VYw7RvgFRuxHuhB2OeGFh~2VGwre27stXW~TRPRuc8uASwQGuch9xzJW-qtkD0BjXDUa6vWpQmK07U2n~4sfHFPI99PlArOsbQUU6nQeepwup1tn1MHf-xVQUH23btdfurD3O1sHjvc22TX9WjjKLE~1ILJHPQH7~51kg6dT-LFxK5Gab38Tf3IymzjjzisJ-JvYxd9ZG3~RoF3Qsh~OSA2UhMINFTQ1l4ysarGkF81pVrp2WGzaXvmxuzjGyTcAUjBJw~Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "Coca Cola",
       "type": "Bebida",
       "price": 7.99
     },
     {
       "id": 5,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/4825/7408/7ab92583a1899ee8c880fbc412dcf2b3?Expires=1636329600&Signature=H7i4nJgh2SOTdJ2SyMcPqVOBZswsTpCp-7Y04~4jHjFKc-okvNCyL7AvXhItG7GBifeOTxe~lUcRgON8LDokSU6Z0ehR6M1qG48lMjh8m-WcSO0HwmtkAAnYhqXAb7vzXOnmpJza60lmYABBYD86lEnXHBmRnJA3b-PCZI92Yp29KAICNJbQ80Z5MpEcVnzUZ9O2N6UTzUS9jBD~Lrk6rLhnR2T2VIthE14-YuqyQwbJ9xhK0534wd0n40RHC1USTyiDbwbsMKLJ9haVKI9gncd0oZc~lXvRhR3~Q86K51d2njMa2t5EWwdIfVIU9JhfoeruX1INKYZ-CF3S2CB5fQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "Best Combo",
       "type": "Combos",
       "price": 19.99
     },
     {
       "id": 6,
-      "image": "",
-      "name": "Suco de Laranja",
+      "image": "https://s3-alpha-sig.figma.com/img/33b4/26ec/3ddbebe1535caac9b2a02d00b60bff97?Expires=1636329600&Signature=X9TCTUcpZK~KwDGiW30Tw5vO4Q9Hp0ziMGtYaVVsBhoTFRd2nBMrmF0cnpVtIigndh8zLc~VW-CEygJ-9pP9RL5ZrTrlsr-4~pq-Rn3~DN6mOUyOz1unLTVW1YwlTSEp-Xn3DU-p8itQoa1KqEN8v~H6g3ZUwxveQnoVPzJGlnvfXErqkX~mN0pcT5zKiXjPno6dlTsHR~FIEnqL3CFZWlsBEajgKbCg14T2ffnq4gQ7FnWoPKBjqOYtXGf1CHa-30qpO0o8XYgf3yeUt3kA3KgNn-R~wSLuCjuoH6Lir7dww8AdCRxkIB3xZSAtjb9aN1pD3i25Z5CK55g1TMzPyQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+      "name": "Milk Shake Ovomaltine",
       "type": "Bebida",
       "price": 2.99
     },
     {
       "id": 7,
-      "image": "",
+      "image": "https://s3-alpha-sig.figma.com/img/bb0c/a182/55225f534ef7e57de0892c7de864a767?Expires=1636329600&Signature=BmgZ5U6rBdWJg7YQ2oimga5LzSNF49hYsOq6GMQxV3JzisW~sUldUFY4AnXOhwt6o4O8WCZCZPbut1X0V6UPij9NP059pSPNt6fabwETX9D23QOtSxg-TYa31NcVeo65F5ACL~oytXYl~0VI2iDhNZtdO5eQoxBQ9H3bV4tD95lHO-T87FpR9AVyLSEvT23mkoomDXUN6P~01O-IwnpNS~558oWPtFTsecWIPypZVHrxxks8u-XxCOzISsJKR-U7Z8WJZ0YVfNNH7vjFNB8PkB4IXRayNR4k8~KfFPCuT~XSTuSsZWgU0c3LbFy35miMkAO7OcdfhPABKT4leZxkGA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
       "name": "Big Q2",
       "type": "Sanduiche",
       "price": 29.99
-    },
-    {
-      "image": "",
-      "name": "HamburguerX",
-      "type": "Sanduiche",
-      "price": 13.99,
-      "userId": 2,
-      "id": 8
     }
   ],
   "promotions": [
